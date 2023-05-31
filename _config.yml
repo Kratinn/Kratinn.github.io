@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: This is the personal homepage of Kratin,currently living in Sapporo.
+description: Enjoying eating yummy food and desserts is my job!
+plugins:
+  - jemoji
+url: "https://Kratinn.github.io/"
+markdown: kramdown
