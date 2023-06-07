@@ -13,7 +13,7 @@ I love **cooking** and **baking** bakery in my free time. Here is my bakery that
 I'm passionate about traveling. I have been to Japan, Singapore, South Korea, China, Hongkong. I love traveling to Korea for cafe hopping and enjoying the city. I love the Korean vibe, especially Hongdae and Hangang
 Pictures
 ![ิFuji](fuji.JPG)
-![ิBusan](busan.HEIC)
+
 
 
 
