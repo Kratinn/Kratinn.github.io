@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
-title: This is the personal homepage of Kratin,currently living in Sapporo.
-description: Enjoying eating yummy food and desserts is my job!
+title: This is the personal homepage of Kratin! I'm Thai, but I'm currently living in Sapporo.
+description: 
+I am MJSP student at Hokkaido University. I have been living in Hokkaido for 1 year. I love to explore delicious food and
+new cafe. I
 plugins:
   - jemoji
 url: "https://Kratinn.github.io/"
